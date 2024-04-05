@@ -8,17 +8,17 @@
 
 
 
-
+ 
 ⚙️التثبيت⚙️
-
+`
 pip install -r requirements.txt
-
+`
 
 
 🏃🏼التشغيل🏃🏼
-
+`
 python tinar.py 
-
+`
 
 
 📣Commands📣

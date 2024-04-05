@@ -21,7 +21,7 @@ python tinar.py
 `
 
 
-📣Commands📣
+📣الأوامر من داخل البوت📣
 
 /screen التقاط سكرين شوت.🖵
 

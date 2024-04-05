@@ -1,25 +1,21 @@
-# ThisIsNotRat
-[![HitCount](https://hits.dwyl.com/realb3y/RealBey/ThisIsNotRat.svg?style=flat-square)](http://hits.dwyl.com/realb3y/RealBey/ThisIsNotRat)
+# تحكم بل وندوز او اللينكس الخاص بك عن بعد
 
 
+# يفيد اذا كان لديك استضافة وتريد التحكم بها عن طريق بوت تيليجرام
 <p align="center">
-👀Control your windows computeur from telegram 👀
-
-
-<a href="https://ibb.co/SRWX61h"><img src="https://i.ibb.co/J50Rcbf/ideogram-15.jpg" alt="ideogram-15" border="0"></a>
+تحكم ب نضامك عن طريق بوت تيليجرام 👀
 
 
 
-⚙️INSTALLATION⚙️
+
+
+⚙️التثبيت⚙️
 
 pip install -r requirements.txt
 
-🤖GET BOT API AND PASTE IN tinar.py🤖
-
-![image](https://github.com/RealBey/ThisIsNotRat/assets/85953451/e05a6070-e841-45c1-9592-045263ac4499)
 
 
-🏃🏼RUN🏃🏼
+🏃🏼التشغيل🏃🏼
 
 python tinar.py 
 
@@ -27,47 +23,32 @@ python tinar.py
 
 📣Commands📣
 
-/screen to capture screenshot.🖵
+/screen التقاط سكرين شوت.🖵
 
-/sys to get system informations.ℹ️
+/sys لجلب معلومات النضام.ℹ️
 
-/ip to get ip adress.📟
+/ip لجلب الايبي.📟
 
-/cd to navigate in folders.🗂️
+/cd للدخول الى المسارات.🗂️
 
-/ls for list élements.🗂️
+/ls لعرض المجلدات.🗂️
 
-/upload [path] to get file.📤
+/upload [path] ل رفع ملفات.📤
 
-/crypt [path] for crypt folders files. 🔒
+/crypt [path] لتشفير الملفات. 🔒
 
-/decrypt [path] for decrypt files.🔓
+/decrypt [path] لفك تشفير الملفات.🔓
 
-/webcam to get webcam capture.📷
+/webcam التقاط صورة من الكاميرا.📷
 
-/lock for lock the session.🔑
+/lock لقفل الشاشة.🔑
 
-/clipoard to get clipboard.📋
+/clipoard لجلب معلومات من الحافضة .📋
 
-/shell for pro.🖬
+/shell للدخول الى التيرمنل.🖬
 
-/wifi to get wifi password.📶
+/wifi جلب معلومات الشبكة .📶
 
-/speech [hi]  to speech tts.💬
+/speech [hi]  اصدار صوت من النضام الخاص بك.
 
-/shutdown  🙅
-
-
-DEMO:
-
-
-
-
-https://github.com/RealBey/ThisIsNotRat/assets/85953451/72259af5-b9ea-4c1e-8ae4-3bcc58eca116
-
-
-
-
-
-
-
+/shutdown  اطفاء النضام
